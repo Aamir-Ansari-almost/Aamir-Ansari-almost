@@ -40,7 +40,7 @@
 
   <br/>
     <img alt="Aamir Ansari's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Aamir-Ansari-almost&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <img alt="Aamir Ansari's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aamir-Ansari-almost&langs_count=8&count_private=true&langs_count=6&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <img alt="Aamir Ansari's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aamir-Ansari-almost&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
 <img alt="Aamir Ansari's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Aamir-Ansari-almost&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
