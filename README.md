@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, I am Aamir Ansari!!</h1>
-<p align="center">I am a student and a technophile. I spend most of my free time learning new things, gaming, questioning my exitence when a code doesn't work and ofcourse Reddit 🙏. My field of interests includes web development, Gaming and currently I'm getting into data science.</p>
+<p align="center">I am a student and a technophile. I spend most of my free time learning new things, gaming, questioning my existence when a code doesn't work and ofcourse Reddit 🙏. My field of interests include web development, Gaming and currently I'm getting into data science.</p>
 
 ## 🙋‍♂️ About Me </h4>
 
